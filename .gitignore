@@ -1,0 +1,10 @@
+﻿.ultralytics/
+.cora/
+third_party/
+models/*.pt
+models/*.pth
+*.log
+__pycache__/
+venv/
+.venv/
+node_modules/
