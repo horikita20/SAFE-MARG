@@ -1,6 +1,5 @@
 # Smart Autonomous Vehicle — Adaptive Indian Road Navigation
 
-### Smart India Hackathon 2026 (Problem Statement ID: SIH26037)
 **Category**: Autonomous Vehicles & Robotics · **Technology Stack**: 100% MATLAB / Simulink
 
 ---
